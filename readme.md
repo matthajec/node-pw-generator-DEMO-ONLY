@@ -1,6 +1,6 @@
 # Password Generator
 
-Don't use this. I'm not an expert and I know very little about cryptography. There could very easily be errors in my code or implementation.
+Don't use this. I'm not an expert and I know very little about cryptography and password security. There could very easily be errors in my code or implementation.
 
 This is a simple "battery staple horse" style password generator. You can put in the amount of words you want and it'll generate a password for you and tell you it's entropy. To use it, just pass an integer as the first argument when running the index.js script.
 
